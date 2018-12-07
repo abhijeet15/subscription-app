@@ -66,5 +66,5 @@ Get single subscriber details
 DELETE api/v1/subscriber/{subscription}
 Delete single subscriber.
 
-###Front End:
+#Front End:
 Front end is just demo how the use the api's. Front developer using vue.js and has single controller FrontendController for routing.
